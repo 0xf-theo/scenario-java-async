@@ -5,9 +5,9 @@
 
 ## Authors
 
-- VILLANO Théo
-- CANTRELLE Noa
-- LUCET Aymeric
+- V. Théo
+- C. Noa
+- L. Aymeric
 ## 🛠 Scenario Launch Steps
 
 ### For scenario 1
